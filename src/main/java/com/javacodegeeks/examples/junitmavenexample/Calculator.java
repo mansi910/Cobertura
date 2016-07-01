@@ -33,7 +33,8 @@ public class Calculator implements ICalculator {
 		if (a == b) {
 			result = true;
 		}
-
+return result;
+return result;
 		return result;
 	}
 }
