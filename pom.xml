@@ -43,7 +43,7 @@
 									<ruleset>/pmd-rules.xml</ruleset>
 								</rulesets>
 								<!-- CPD options -->
-								<minimumTokens>50</minimumTokens>
+								<minimumTokens>10</minimumTokens>
 								<ignoreIdentifiers>true</ignoreIdentifiers>
 							</configuration>
 						</plugin>
